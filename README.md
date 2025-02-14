@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sam!
+# 👋 Hi, I’m Sam!
 🔹 Passionate about **DevOps, Cybersecurity, and Cloud Security**  
 🔹 Exploring **Automation, CI/CD, Infrastructure as Code, and Secure Deployments**  
 🔹 Open to collaborating on security-focused DevOps projects  
